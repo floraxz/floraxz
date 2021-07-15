@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @floraxz
+- 👀 I’m interested in building
+- 🌱 I’m currently learning CI/CD
